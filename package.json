@@ -1,0 +1,18 @@
+{
+  "name": "catoftheday",
+  "version": "1.0.0",
+  "description": "A Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AprilTheFool",
+  "license": "MIT",
+  "dependencies": {
+    "@thatapicompany/thecatapi": "^1.0.2",
+    "axios": "^1.7.7",
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5",
+    "node-schedule": "^2.1.1"
+  }
+}
