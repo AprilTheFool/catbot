@@ -10,7 +10,7 @@ Can also be used with /sendcat
 
 ```git clone https://github.com/AprilTheFool/catbot```
 
-2: create a config.json file in the root
+2: Create a config.json file in the root
 
 ```
 {
@@ -22,4 +22,6 @@ Can also be used with /sendcat
 }
 ```
 
-3: Enjoy :)
+3: Run the bot with ```node index.js```
+
+4: Enjoy :)
